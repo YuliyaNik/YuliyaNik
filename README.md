@@ -4,7 +4,7 @@
 
 I am a Manual QA Engineer with 1.7 years of experience in web application testing. Proficient in core technical skills, I uphold strong organizational ethics and discipline, coupled with a keen eye for detail. My aim is to secure a position within a company where I can leverage my expertise to deliver high-quality results over the long haul. Collaborating with like-minded professionals to craft innovative IT products excites me, and witnessing tangible success from my efforts is immensely gratifying. 
 
-## [My CV](вставити тут посилання на резюме!!!!)
+## [My CV](https://drive.google.com/file/d/19nz6SIvnyjRrVQm6qXbxdeovNXUkT9DM/view?usp=sharing)
 
 ## Examples of my work
   - [Test Plan](https://docs.google.com/document/d/12ODT5ja8YL9oyvJspj_ncrl34ROKmBfI/edit?usp=sharing&ouid=114123751816988790224&rtpof=true&sd=true)
